@@ -1,7 +1,7 @@
 <h1 align="center">Braffolk's Image Loader</h1>
 
 <h3 align="center">Written by Braffolk#1160</h3>
-<h3 align="center">https://marketplace.yoyogames.com/assets/4543/custom-sprite-framework</h3?
+<h3 align="center">https://marketplace.yoyogames.com/assets/4543/custom-sprite-framework</h3>
 
 Game Maker creates an extra texture page for every sprite and subimage that the user loads into their game using the function sprite_add, this often results in terrible performance issues due to hundreds or sometimes even thousands of texture swaps. This collection of scripts is meant to fix this problem by giving full control over custom texture pages, groups and memory management.
 
