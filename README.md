@@ -6,11 +6,11 @@ Game Maker creates an extra texture page for every sprite and subimage that the 
 
 <h3 align="center">Features</h3>
 
-⋅⋅* Custom texture groups for easier organisation and memory management.
-⋅⋅* Easy texture page creation via an algorithm that does everything, you simply have to specify what to load.
-⋅⋅* Image caches for storing, faster loading and sending texture groups via networking.
-⋅⋅* Functions that can be used exactly the same as the GM sprite functions, except the collision specific functions.
-⋅⋅* All GM built in sprite system drawing functionalities and more.
+* Custom texture groups for easier organisation and memory management.
+* Easy texture page creation via an algorithm that does everything, you simply have to specify what to load.
+* Image caches for storing, faster loading and sending texture groups via networking.
+* Functions that can be used exactly the same as the GM sprite functions, except the collision specific functions.
+* All GM built in sprite system drawing functionalities and more.
 
 <h3 align="center">Issues & Limitations</h3>
 
