@@ -16,4 +16,4 @@ Game Maker creates an extra texture page for every sprite and subimage that the 
 
 This is optimised for YYC and will be pretty much as fast as built in sprite functionality, however, on the regular windows export it will be still be way faster than sprites that were imported using sprite_add but will be a bit slower than built in sprites.
 
-<p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/custom-sprite-framework/preview.png" style="display:block; margin:auto; width:300px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/custom-sprite-framework/master/preview.png" style="display:block; margin:auto; width:300px"></p>
