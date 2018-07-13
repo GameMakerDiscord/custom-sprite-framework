@@ -2,6 +2,7 @@
 
 <h3 align="center">Written by Braffolk#1160</h3>
 <h3 align="center">https://marketplace.yoyogames.com/assets/4543/custom-sprite-framework</h3>
+<a href="https://github.com/GameMakerDiscord/custom-sprite-framework/wiki">Documentation</a>
 
 &nbsp;
 
@@ -22,3 +23,5 @@ This is optimised for YYC and will be pretty much as fast as built in sprite fun
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/custom-sprite-framework/master/preview.png" style="display:block; margin:auto; width:300px"></p>
+
+
