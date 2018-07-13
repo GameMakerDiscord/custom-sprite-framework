@@ -2,7 +2,9 @@
 
 <h3 align="center">Written by Braffolk#1160</h3>
 <h3 align="center">https://marketplace.yoyogames.com/assets/4543/custom-sprite-framework</h3>
-<a href="https://github.com/GameMakerDiscord/custom-sprite-framework/wiki">Documentation</a>
+<h3 align="center"><a href="https://github.com/GameMakerDiscord/custom-sprite-framework/wiki">Documentation</a></h3>
+
+
 
 &nbsp;
 
