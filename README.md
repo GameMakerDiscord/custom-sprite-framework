@@ -14,6 +14,7 @@ Game Maker creates an extra texture page for every sprite and subimage that the 
 
 * Now supports bounding box generation and modification.
 * Custom texture groups for easier organisation and memory management.
+* Supports adding sprites from sheets, subimage files, strips and the internet.
 * Easy texture page creation via an algorithm that places everything neatly on the texturepage, you simply have to specify * what to load.
 * Now supports bounding box generation and modification.
 * Supports adding sprites from sheets, subimage files, strips and the internet.
