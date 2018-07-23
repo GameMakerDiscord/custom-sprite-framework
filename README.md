@@ -12,15 +12,22 @@ Game Maker creates an extra texture page for every sprite and subimage that the 
 
 <h3 align="center">Features</h3>
 
+* Now supports bounding box generation and modification.
+* Custom texture groups for easier organisation and memory management.
+* Easy texture page creation via an algorithm that places everything neatly on the texturepage, you simply have to specify * what to load.
+* Now supports bounding box generation and modification.
+* Supports adding sprites from sheets, subimage files, strips and the internet.
 * Custom texture groups for easier organisation and memory management.
 * Easy texture page creation via an algorithm that does everything, you simply have to specify what to load.
 * Image caches for storing, faster loading and sending texture groups via networking.
-* Functions that can be used exactly the same as the GM sprite functions, except the collision specific functions.
+* Functions that can be used the same as the GM sprite functions.
 * All GM built in sprite system drawing functionalities and more.
+* Support for async loading.
+
 
 <h3 align="center">Issues & Limitations</h3>
 
-This is optimised for YYC and will be pretty much as fast as built in sprite functionality, however, on the regular windows export it will be still be way faster than sprites that were imported using sprite_add but will be a bit slower than built in sprites.
+This is optimised for YYC and will be pretty much as fast as built in sprite functionality, however, on the regular windows export it will be still be way faster than sprites that were imported using sprite_add but will be a bit slower than built in sprites. The extension only uses GML. The images refer to texture pages that are stored in backgrounds. As expected, backgrounds & sprites added with background_add or sprite_add take up around two times more memory than a built-in ones would, hence custom texture pages too take more memory than built-in ones.
 
 &nbsp;
 
